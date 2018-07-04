@@ -12,3 +12,11 @@ function summ(a,b) {
 function sayName(name) {
     console.info(name);
 }
+
+/**
+ * Функция делает "очень интересные" вещи
+ * @returns {boolean}
+ */
+function someUniqFn() {
+    return true;
+}
