@@ -9,6 +9,10 @@ function summ(a,b) {
     return total;
 }
 
+/**
+ * Функция делает "очень интересные" вещи
+ * @returns {boolean}
+ */
 function someUniqFn() {
     return true;
 }
