@@ -8,3 +8,7 @@ function summ(a,b) {
     var total = a + b;
     return total;
 }
+
+function someUniqFn() {
+    return true;
+}
